@@ -1,19 +1,20 @@
 Deze game is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
-## Mijn spel: *naam van het spel*
+## Mijn spel: *Snake*
 Gemaakt door:
-- *naam van leerling 1*
-- *naam van leerling 2*
+- *Jan van de Ruit*
+- *Yasmin van Zelst*
 
 ## Mijn planning
 
 Basis: uitleg, spelen, afgaan en punten
 - [x] maak index.html, style.css en script.js met canvas
-- [ ] teken speler
-- [ ] beweeg speler
+- [ ] teken snake
+- [ ] beweeg snake
+- [ ] 
 - [ ] ... *(vul zelf aan)*
-- [ ] punten op scherm zetten
-- [ ] punten kunnen scoren
+- [ ] fruit op scherm zetten
+- [ ] punten kunnen scoren via fruit
 - [ ] uitlegscherm
 
 Uitbreiding: *bedenk iets, bijvoorbeeld meer tegenstanders*
