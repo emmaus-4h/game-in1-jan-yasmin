@@ -11,6 +11,7 @@ Basis: uitleg, spelen, afgaan en punten
 - [x] maak index.html, style.css en script.js met canvas
 - [ ] teken snake
 - [ ] beweeg snake
+- [ ] iets meer
 - [ ] 
 - [ ] ... *(vul zelf aan)*
 - [ ] fruit op scherm zetten
